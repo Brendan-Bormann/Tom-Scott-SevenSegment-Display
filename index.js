@@ -37,7 +37,7 @@ function checkLettersForSevenSegmentDisplay(dictionary)
             // count will equal 0 if all letters have been found
             if (count === 0)
             {
-                // set the new longest current word
+                // set the new longest current word 
                 currentLongestWord = dictionary[i];
             }
         }
